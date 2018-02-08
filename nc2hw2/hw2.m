@@ -28,5 +28,5 @@ h2p3ret(3);
 % Implement GCNM on the function. Mark the solution point
 % acquired from this algorithm on the graph.
 % Use initial guess x0 = 3. Also, check the rate of convergence.
-% The code for GCNM can be found in h2p4ret.m.
-h2p4ret(3);
+% The code for GCNM can be found in gcnm.m.
+gcnm(9);
